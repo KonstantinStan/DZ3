@@ -15,3 +15,5 @@
 Все контейнеры проверены через `curl` — эндпоинты `/api/counter` отлично отдают и обновляют данные.
 
 <img width="1263" height="420" alt="image" src="https://github.com/user-attachments/assets/a4271b5a-0fc4-4113-a4ce-67f626031ed6" />
+
+<img width="1260" height="624" alt="image" src="https://github.com/user-attachments/assets/889bea16-2de8-4b42-85ba-1d4bf6f26769" />
