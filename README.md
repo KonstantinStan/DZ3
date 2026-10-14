@@ -13,3 +13,5 @@
 3. **nonroot** — то же самое, что multistage, но приложение работает от имени обычного пользователя `appuser` ради безопасности, а не от root 
 
 Все контейнеры проверены через `curl` — эндпоинты `/api/counter` отлично отдают и обновляют данные.
+
+<img width="1263" height="420" alt="image" src="https://github.com/user-attachments/assets/a4271b5a-0fc4-4113-a4ce-67f626031ed6" />
